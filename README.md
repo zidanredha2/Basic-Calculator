@@ -10,4 +10,4 @@ The features of this project may include:
 
 -- Error and Exceptional Handling.
 
-![Responsive Calculator App](Preview.png)
+![Responsive Calculator App](Preview)
